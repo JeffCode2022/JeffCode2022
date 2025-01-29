@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://github.com/JeffCode2022/Ferrelomas.git">
-    <img src="https://via.placeholder.com/400x200?text=Ferrelomas" alt="Ferrelomas"/>
+    <img src="https://i.postimg.cc/vHRW28Hn/Captura-de-pantalla-2024-11-26-221435.png" alt="Ferrelomas"/>
   </a>
   <h3>Ferrelomas</h3>
   <p>Sistema de Gestión para Ferreterías que permite el control de inventario, ventas, compras y reportes en tiempo real.</p>
