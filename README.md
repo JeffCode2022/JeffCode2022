@@ -58,7 +58,7 @@
 
 <div align="center">
   <a href="https://github.com/JeffCode2022/CrustaceoGo_app.git">
-    <img src="https://via.placeholder.com/400x200?text=CrustaceoGo" alt="CrustaceoGo"/>
+    <img src="https://i.postimg.cc/wBzLqwsj/Whats-App-Image-2025-01-29-at-3-49-19-PM.jpg" alt="CrustaceoGo"/>
   </a>
   <h3>CrustaceoGo</h3>
   <p>Aplicación móvil para gestión y delivery de mariscos con sistema de pedidos y seguimiento en tiempo real.</p>
