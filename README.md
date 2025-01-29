@@ -4,9 +4,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://postimg.cc/p90DYrJV" alt="Banner">
-</div>
+[![header.png](https://i.postimg.cc/0QvcvJ6S/header.png)](https://postimg.cc/p90DYrJV)
 
 ## 🚀 **Habilidades y Tecnologías**
 
