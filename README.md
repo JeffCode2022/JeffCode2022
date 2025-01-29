@@ -1,61 +1,64 @@
-<p align="center">
-  <img src="https://your-image-url-here.com/portfolio-banner.png" alt="JeffDev Portfolio Banner" width="100%">
-</p>
+<div align="center">
+  
+# ⚡ JEFFDEV ⚡
+[![GitHub followers](https://img.shields.io/github/followers/JeffDev?style=social)](https://github.com/JeffDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/JeffDev)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+al+portafolio+de+JeffDev;Desarrollador+Full+Stack&center=true&size=30">
-</h1>
+<div style="background-color: #2D3748; padding: 20px; border-radius: 10px;">
+  <h1 style="color: white;">JEFFDEV</h1>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/jeffdev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://github.com/jeffdev"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="mailto:jeff@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+## 🚀 Desarrollador Full Stack | Experto en Desarrollo Web & Móvil
 
-## 🚀 Habilidades
+</div>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+### 🛠️ Stack Tecnológico
 
-## 💼 Proyectos Destacados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 1. Sistema de Gestión para Ferreterías
-Aplicación web de administración de inventario y ventas
-- 🔧 Desarrollo Full Stack con MEAN Stack
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffDev&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffDev&layout=compact&theme=tokyonight)
+
+</div>
+
+### 🎯 Proyectos Destacados
+
+#### Sistema de Gestión para Ferreterías
+- 🛠️ Aplicación web Full Stack con MEAN Stack
 - 🔐 Autenticación JWT y control de roles
-- 📊 Optimización de consultas en MongoDB
-- 🎨 Diseño UI con Angular Material
+- 📊 Gestión de inventario y ventas
+- 💾 Optimización de consultas en MongoDB
+- 🎨 UI moderna con Angular Material
 
-### 2. Conexión Gourmet
-Plataforma web para reservas en restaurantes
-- 🐍 Backend desarrollado con Python y Django
-- 🍽️ Implementación de sistema de reservas en línea y calificaciones
-- 🗃️ Base de datos en PostgreSQL
-- 🖥️ Frontend responsivo con HTML, CSS, JavaScript
+#### Conexión Gourmet
+- 🍽️ Plataforma de reservas para restaurantes
+- ⚡ Backend en Python/Django
+- 🗄️ Base de datos PostgreSQL
+- 💻 Frontend responsive con HTML, CSS, JS
+- ⭐ Sistema de calificaciones integrado
 
-### 3. CrustaceoGo
-Aplicación móvil para pedidos de comida
-- 📱 Desarrollo en Flutter con backend en Node.js y PostgreSQL
-- 💳 Integración de pasarela de pagos (MercadoPago/Stripe)
-- 🔔 Implementación de notificaciones push
-- 🗺️ Uso de Google Maps API para geolocalización de pedidos
+#### CrustaceoGo
+- 📱 App móvil de delivery en Flutter
+- 🔄 Backend en Node.js con PostgreSQL
+- 💳 Integración con MercadoPago/Stripe
+- 📍 Geolocalización con Google Maps API
+- 🔔 Sistema de notificaciones push
 
-## 📫 Contacto
+### 📫 Contacto
 
-¿Interesado en colaborar o tienes alguna pregunta? ¡No dudes en contactarme!
+¿Interesado en colaborar? ¡Contáctame!
 
-- 📧 Email: jeff@example.com
-- 💼 LinkedIn: [linkedin.com/in/jeffdev](https://linkedin.com/in/jeffdev)
-- 🐱 GitHub: [github.com/jeffdev](https://github.com/jeffdev)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeffdev&color=blueviolet" alt="Profile views">
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffdev@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JeffDev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeffDev)
