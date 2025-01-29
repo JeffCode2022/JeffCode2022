@@ -1,11 +1,10 @@
-# 👨‍💻 Hola, soy **JeffDev**
+                                                    # 👨‍💻 Hola, soy **JeffDev**
 ¡Bienvenido a mi portafolio! Soy **Jefferson Chunga Zapata**, Ingeniero de Sistemas apasionado por la tecnología y el desarrollo de soluciones innovadoras.
 
----
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+Portafolio)
 
----
+![Banner](https://i.postimg.cc/0QvcvJ6S/header.png)
+
 
 ## 🚀 **Habilidades y Tecnologías**
 
@@ -20,13 +19,11 @@
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
 </div>
 
----
 
 ## 📈 **Estadísticas**
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JeffCode2022&show_icons=true&theme=radical)
 ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffCode2022&layout=compact&theme=radical)
 
----
 
 ## 🌟 **Proyectos Destacados**
 
