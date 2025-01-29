@@ -4,7 +4,9 @@
 
 </div>
 
-[![header.png](https://i.postimg.cc/0QvcvJ6S/header.png)](https://postimg.cc/p90DYrJV)
+<div align="center">
+  [![header.png](https://i.postimg.cc/0QvcvJ6S/header.png)](https://postimg.cc/p90DYrJV)
+</div>
 
 ## 🚀 **Habilidades y Tecnologías**
 
@@ -36,13 +38,19 @@
 
 <div align="center">
   <a href="https://github.com/JeffCode2022/Ferrelomas.git">
-    <img src="https://via.placeholder.com/300x200.png?text=Ferreter%C3%ADas" alt="Sistema de Gestión para Ferreterías" style="margin: 10px;">
+    <img src="https://via.placeholder.com/300x200.png?text=Ferrelomas" alt="Sistema de Gestión para Ferreterías" style="margin: 10px;">
+    <br/>
+    <img src="https://img.shields.io/badge/GitHub-Project-blue" alt="Ferrelomas">
   </a>
   <a href="https://github.com/JeffCode2022/ConexionGourmet.git">
-    <img src="https://via.placeholder.com/300x200.png?text=Conexi%C3%B3n+Gourmet" alt="Conexión Gourmet" style="margin: 10px;">
+    <img src="https://via.placeholder.com/300x200.png?text=Conexion+Gourmet" alt="Conexión Gourmet" style="margin: 10px;">
+    <br/>
+    <img src="https://img.shields.io/badge/GitHub-Project-blue" alt="Conexion Gourmet">
   </a>
   <a href="https://github.com/JeffCode2022/CrustaceoGo_app.git">
     <img src="https://via.placeholder.com/300x200.png?text=CrustaceoGo" alt="CrustaceoGo" style="margin: 10px;">
+    <br/>
+    <img src="https://img.shields.io/badge/GitHub-Project-blue" alt="CrustaceoGo">
   </a>
 </div>
 
