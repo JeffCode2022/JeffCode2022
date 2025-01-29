@@ -1,7 +1,5 @@
-<div align="center">
-  <h1>👨‍💻 Hola, soy JeffDev</h1>
-  <img src="https://i.postimg.cc/0QvcvJ6S/header.png" alt="Header" width="100%">
-</div>
+## Hola, soy Jefferson_dev 🧑‍💻
+[![github-header-image.png](https://i.postimg.cc/tCBbgwxr/github-header-image.png)](https://postimg.cc/nC9gRdT7)
 
 ## 🚀 Habilidades y Tecnologías
 <div align="center">
