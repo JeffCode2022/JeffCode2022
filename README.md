@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://github.com/JeffCode2022/ConexionGourmet.git">
-    <img src="https://via.placeholder.com/400x200?text=Conexion+Gourmet" alt="Conexión Gourmet"/>
+    <img src="https://i.postimg.cc/Jzx4Xx2n/Captura-de-pantalla-2025-01-29-154356.png" alt="Conexión Gourmet"/>
   </a>
   <h3>Conexión Gourmet</h3>
   <p>Plataforma de delivery y gestión de restaurantes con sistema de pedidos en tiempo real y seguimiento de entregas.</p>
