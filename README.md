@@ -1,5 +1,4 @@
-## Hola, soy Jefferson_dev 🧑‍💻
-[![github-header-image.png](https://i.postimg.cc/tCBbgwxr/github-header-image.png)](https://postimg.cc/nC9gRdT7)
+[![github-header-image-1.png](https://i.postimg.cc/MTpbzc23/github-header-image-1.png)](https://postimg.cc/HJF72kLb)
 
 ## 🚀 Habilidades y Tecnologías
 <div align="center">
