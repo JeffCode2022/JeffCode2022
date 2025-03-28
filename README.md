@@ -56,23 +56,23 @@ Permite el control de inventario, ventas, compras y generación de reportes en t
 
 ---
 
-### 🍽️ Conexión Gourmet
+### 🍽️ Conexión Gourmet  
 <div align="center">
   <a href="https://github.com/JeffCode2022/ConexionGourmet.git">
     <img src="https://i.postimg.cc/Jzx4Xx2n/Captura-de-pantalla-2025-01-29-154356.png" alt="Conexión Gourmet" width="80%"/>
   </a>
 </div>
 **Plataforma de delivery y gestión de restaurantes**  
-Incluye pedidos en tiempo real, gestión de menús y seguimiento de entregas.
+Incluye pedidos en tiempo real, gestión de menús y seguimiento de entregas para mejorar la experiencia gastronómica.
 
 **Tecnologías utilizadas:**  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ---
 
-### 🦀 CrustaceoGo
+### 🦀 CrustaceoGo  
 <div align="center">
   <a href="https://github.com/JeffCode2022/CrustaceoGo_app.git">
     <img src="https://i.postimg.cc/wBzLqwsj/Whats-App-Image-2025-01-29-at-3-49-19-PM.jpg" alt="CrustaceoGo" width="80%"/>
