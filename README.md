@@ -1,81 +1,102 @@
-## Hola, 
-[![github-header-image-1.png](https://i.postimg.cc/MTpbzc23/github-header-image-1.png)](https://postimg.cc/HJF72kLb)
+## 👋 Hola, bienvenido/a a mi perfil
+
+[![Header](https://i.postimg.cc/MTpbzc23/github-header-image-1.png)](https://postimg.cc/HJF72kLb)
+
+Soy **Jefferson Chunga Zapata**, Ingeniero de Sistemas apasionado por el desarrollo de software, inteligencia artificial y soluciones móviles. Me especializo en crear sistemas eficientes y escalables que impacten positivamente en las personas y organizaciones.
+
+---
 
 ## 🚀 Habilidades y Tecnologías
+
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
-  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
-  <img src="https://img.icons8.com/fluency/48/000000/astro.png" alt="Astro"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/django.png" alt="Django"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/npm.png" alt="NPM"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/fluency/48/astro.png" alt="Astro"/>
 </div>
 
-## 📈 Estadísticas
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeffCode2022&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffCode2022&layout=compact&theme=radical" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JeffCode2022&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffCode2022&layout=compact&theme=radical" width="48%" />
 </div>
+
+---
 
 ## 🌟 Proyectos Destacados
 
+### 🔧 Ferrelomas
 <div align="center">
   <a href="https://github.com/JeffCode2022/Ferrelomas.git">
-    <img src="https://i.postimg.cc/vHRW28Hn/Captura-de-pantalla-2024-11-26-221435.png" alt="Ferrelomas"/>
+    <img src="https://i.postimg.cc/vHRW28Hn/Captura-de-pantalla-2024-11-26-221435.png" alt="Ferrelomas" width="80%"/>
   </a>
-  <h3>Ferrelomas</h3>
-  <p>Sistema de Gestión para Ferreterías que permite el control de inventario, ventas, compras y reportes en tiempo real.</p>
-  <p>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  </p>
 </div>
+**Sistema de Gestión para Ferreterías**  
+Permite el control de inventario, ventas, compras y generación de reportes en tiempo real.
 
+**Tecnologías utilizadas:**  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### 🍽️ Conexión Gourmet
 <div align="center">
   <a href="https://github.com/JeffCode2022/ConexionGourmet.git">
-    <img src="https://i.postimg.cc/Jzx4Xx2n/Captura-de-pantalla-2025-01-29-154356.png" alt="Conexión Gourmet"/>
+    <img src="https://i.postimg.cc/Jzx4Xx2n/Captura-de-pantalla-2025-01-29-154356.png" alt="Conexión Gourmet" width="80%"/>
   </a>
-  <h3>Conexión Gourmet</h3>
-  <p>Plataforma de delivery y gestión de restaurantes con sistema de pedidos en tiempo real y seguimiento de entregas.</p>
-  <p>
-    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  </p>
 </div>
+**Plataforma de delivery y gestión de restaurantes**  
+Incluye pedidos en tiempo real, gestión de menús y seguimiento de entregas.
 
+**Tecnologías utilizadas:**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
+### 🦀 CrustaceoGo
 <div align="center">
   <a href="https://github.com/JeffCode2022/CrustaceoGo_app.git">
-    <img src="https://i.postimg.cc/wBzLqwsj/Whats-App-Image-2025-01-29-at-3-49-19-PM.jpg" alt="CrustaceoGo"/>
+    <img src="https://i.postimg.cc/wBzLqwsj/Whats-App-Image-2025-01-29-at-3-49-19-PM.jpg" alt="CrustaceoGo" width="80%"/>
   </a>
-  <h3>CrustaceoGo</h3>
-  <p>Aplicación móvil para gestión y delivery de mariscos con sistema de pedidos y seguimiento en tiempo real.</p>
-  <p>
-    <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  </p>
 </div>
+**App móvil de pedidos y delivery de mariscos**  
+Gestión completa de pedidos con seguimiento de entregas en tiempo real.
+
+**Tecnologías utilizadas:**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
 
 ## 📞 Contacto
-- 📱 **Teléfono:** +51 907 940 768
-- 📧 **Correo:** jchungadev@gmail.com
-- 💼 **GitHub:** [JeffCode2022](https://github.com/JeffCode2022)
+
+- 📱 **Teléfono:** +51 907 940 768  
+- 📧 **Correo:** jchungadev@gmail.com  
+- 💼 **GitHub:** [JeffCode2022](https://github.com/JeffCode2022)  
 - 💼 **LinkedIn:** [Jefferson Chunga Zapata](https://www.linkedin.com/in/jefferson-chunga-zapata-12a92a341/)
 
 ---
+
 <div align="center">
-  ¡Gracias por visitar mi portafolio! 🚀
+  <strong>¡Gracias por visitar mi portafolio! Estoy listo para colaborar y construir grandes soluciones. 🚀</strong>
 </div>
