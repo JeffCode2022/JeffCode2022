@@ -62,13 +62,13 @@ Permite el control de inventario, ventas, compras y generación de reportes en t
     <img src="https://i.postimg.cc/Jzx4Xx2n/Captura-de-pantalla-2025-01-29-154356.png" alt="Conexión Gourmet" width="80%"/>
   </a>
 </div>
-**Plataforma de delivery y gestión de restaurantes**  
-Incluye pedidos en tiempo real, gestión de menús y seguimiento de entregas para mejorar la experiencia gastronómica.
+**Plataforma web para delivery y gestión de restaurantes**  
+Gestión integral de pedidos en tiempo real, control de menús, usuarios, reportes y seguimiento de entregas.
 
 **Tecnologías utilizadas:**  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
