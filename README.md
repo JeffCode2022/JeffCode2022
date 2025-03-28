@@ -59,7 +59,7 @@ Permite el control de inventario, ventas, compras y generación de reportes en t
 ### 🍽️ Conexión Gourmet  
 <div align="center">
   <a href="https://github.com/JeffCode2022/ConexionGourmet.git">
-    <img src="https://i.postimg.cc/Jzx4Xx2n/Captura-de-pantalla-2025-01-29-154356.png" alt="Conexión Gourmet" width="80%"/>
+    <img src="https://postimg.cc/zyLrZC5Z" alt="Conexión Gourmet" width="80%"/>
   </a>
 </div>
 **Plataforma web para delivery y gestión de restaurantes**  
